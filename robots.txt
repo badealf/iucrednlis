@@ -1,3 +1,2 @@
 User-agent: *
 Disallow: 
-Sitemap:https://github.ifla.org/sitemap.xml
